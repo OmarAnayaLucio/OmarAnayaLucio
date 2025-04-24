@@ -15,7 +15,7 @@
 
 ⚡ Fun fact: 
     * "Fun fact: I believe data is the new language for understanding the world!"
-    * "Fun fact: When I'm not wrangling data, you can find me p."
+    * "Fun fact: When I'm not wrangling data, you can find me playing ukelele or drumms."
     * "Fun fact: I made my first Python script to automate the analysis of the best and productive ways (price/seasonality) to explore Mexico City's while visiting my baby daughter in Acapulco
     while driving my bike !"
 
